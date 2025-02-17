@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there! 👋
+
+Welcome to my GitHub profile!
+
+I am currently working hard towards graduation. Wishing for success and good fortune in the future. 🚀
+
+Thanks for visiting! Feel free to explore my repositories. 😊
 
 <!--
 **imnoootdreaming/imnoootdreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
