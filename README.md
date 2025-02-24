@@ -1,11 +1,8 @@
-# Hi there! 👋
+# Hi myself! 👋
 
-Welcome to my GitHub profile!
+From now on 2025.2.24 - JAVA gogogo!!!🚀🚀🚀
 
-I am currently working hard towards graduation. Wishing for success and good fortune in the future. 🚀
-
-Thanks for visiting! Feel free to explore my repositories. 😊
-
+Bytedance, please waiting for me!
 <!--
 **imnoootdreaming/imnoootdreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
