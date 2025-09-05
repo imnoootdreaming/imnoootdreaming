@@ -1,8 +1,7 @@
-# That' all
+# 49年入国军之路
 
-From now on 2025.2.24 🚀🚀🚀
-
-Bytedance!!!
+2025.2.24 开始学习Java啦！ 
+2025.9.5 开始二刷代码随想录！
 <!--
 **imnoootdreaming/imnoootdreaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
